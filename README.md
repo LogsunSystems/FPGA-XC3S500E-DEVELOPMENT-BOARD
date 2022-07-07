@@ -13,4 +13,4 @@ The Spartan®-3E family of Field-Programmable Gate Arrays (FPGAs) is specificall
     * 16*2 character LCD display
     * Short circuit protection
     ##  Peripherals
-    - Liquid crystal display
+    _ Liquid crystal display
