@@ -12,7 +12,8 @@ The Spartan®-3E family of Field-Programmable Gate Arrays (FPGAs) is specificall
     * 4*4 keyboard matrix
     * 16*2 character LCD display
     * Short circuit protection
-      ** Peripherals **
+    
+## Peripherals 
     1. Liquid crystal display
     2. DC motor
     3. Stepper motor 
