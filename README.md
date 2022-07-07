@@ -14,3 +14,14 @@ The Spartan®-3E family of Field-Programmable Gate Arrays (FPGAs) is specificall
     * Short circuit protection
     ##  Peripherals
     1. Liquid crystal display
+    2. DC motor
+    3. Stepper motor
+    4. Seven Segment
+    5. Decoder
+    6. Encoder
+    7. Multiplexer and 
+    8. Comparator
+    9. Flip Flop
+    10. Sequence Detector
+    
+    
