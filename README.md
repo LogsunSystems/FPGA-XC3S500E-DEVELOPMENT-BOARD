@@ -15,7 +15,7 @@ The Spartan®-3E family of Field-Programmable Gate Arrays (FPGAs) is specificall
     ## Peripherals
     1. Liquid crystal display
     2. DC motor
-    3. Stepper motor
+    3.** Stepper motor **
     4. Seven Segment
     5. Decoder
     6. Encoder
