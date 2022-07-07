@@ -23,6 +23,6 @@ The Spartan®-3E family of Field-Programmable Gate Arrays (FPGAs) is specificall
     7. Multiplexer and 
     8. Comparator
     9. Flip Flop
-    10. Sequence Detector
+   10. Sequence Detector
     
     
